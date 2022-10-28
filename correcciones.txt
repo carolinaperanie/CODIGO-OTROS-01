@@ -1,0 +1,7 @@
+en este documento anotaré el proceso y las correcciones realizadas a este proyecyo.
+
+1. las carpetas no están bien estructuradas, los archivos javascrit y CSS no van en la carpeta de Assets, por lo que resstructuraré los docs para crear las rutas correctas en el html y la referencia, y también para llevar un mejor orden y visualización del proyecto.
+
+2. Después de hacer los cambios de las carpetas se linkea con la nueva ruta (estos cambios se encuentran en las líenas 7 y 14 del html)
+
+3. El archivo javascript no es muy claro con las funciones y variables porque no tiene comentarios, por lo que es díficl saber con exactitud que es lo que hay que cambiar, aunque a simple vista marca error en la línea 9 con la sintaxis de la función asíncrona.
